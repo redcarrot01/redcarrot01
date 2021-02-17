@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redcarrot01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:redccc9010@gmail.com)](mailto:redccc9010@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/yujin-hong-b93454193)](https://www.linkedin.com/in/yujin-hong-b93454193) 
