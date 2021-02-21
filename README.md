@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/redcarrot01/{redcarrot01svg}.svg)](http://hits.dwyl.com/redcarrot01/{redcarrot01svg})
+[![HitCount](http://hits.dwyl.com/redcarrot01/{redcarrot01}.svg)](http://hits.dwyl.com/redcarrot01/{redcarrot01})
 
 
 <!--
