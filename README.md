@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![HitCount](http://hits.dwyl.com/redcarrot01/react-native-image-modal.svg)
+[![HitCount](http://hits.dwyl.com/redcarrot01)](http://hits.dwyl.com/redcarrot01)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcarrot01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
