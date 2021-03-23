@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+### About myself
+
+I'm YuJin Hong and I'm interested in Backend development & Cloud.
+I'm ull with eager to learn new technique and skill.
+I want to be a developer who grows day by day as much as github commits.
+
+Skill Set
+
+✔ Familiar with
+Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
+
+🙌 Currently learning
+Spring, Kubernetes
+
+✨ from now on 
+Java(), Spring, Spring boot, Spring cloud ..
+
+👌 So so & Had tried it before
+Html, css, javascript, linux, Docker, Tensorflow, Android
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
