@@ -3,10 +3,10 @@
 ### About myself
 
 I'm YuJin Hong and I'm interested in Backend development & Cloud.   
-I'm ull with eager to learn new technique and skill.   
+I'm full with eager to learn new technique and skill.   
 I want to be a developer who grows day by day as much as github commits.   
 
-Skill Set
+### Skill Set
 
 ✔ Familiar with  
 Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
