@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About myself
+### 🥕 About myself
 
 I'm Yu Jin Hong and I'm interested in Backend development & Cloud.   
 I'm full with eager to learn new technique and skill.   
