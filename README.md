@@ -16,7 +16,7 @@ Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
 🙌 Currently learning   
 Spring, Kubernetes
 
-✨ from now on & want to do well   
+✨ From now on & Want to do well   
 Java, Spring, Spring boot, Spring cloud ..
 
 👌 So so & Had tried it  
