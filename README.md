@@ -8,16 +8,16 @@ I want to be a developer who grows day by day as much as github commits.
 
 Skill Set
 
-✔ Familiar with
+✔ Familiar with  
 Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
 
-🙌 Currently learning
+🙌 Currently learning   
 Spring, Kubernetes
 
-✨ from now on 
+✨ from now on    
 Java(), Spring, Spring boot, Spring cloud ..
 
-👌 So so & Had tried it before
+👌 So so & Had tried it before   
 Html, css, javascript, linux, Docker, Tensorflow, Android
 
 
