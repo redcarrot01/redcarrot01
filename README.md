@@ -6,6 +6,8 @@ I'm Yu Jin Hong and I'm interested in Backend development & Cloud.
 I'm full with eager to learn new technique and skill.   
 I want to be a developer who grows day by day as much as github commits.   
 
+
+
 ### Skill Set
 
 ✔ Familiar with  
@@ -19,6 +21,7 @@ Java, Spring, Spring boot, Spring cloud ..
 
 👌 So so & Had tried it  
 Html, css, Java, javascript, linux, Docker, Tensorflow, Android
+
 
 
 ### :mailbox_with_mail: More about me & Contacts
