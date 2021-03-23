@@ -15,7 +15,7 @@ Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
 Spring, Kubernetes
 
 ✨ from now on    
-Java(), Spring, Spring boot, Spring cloud ..
+Java, Spring, Spring boot, Spring cloud ..
 
 👌 So so & Had tried it  
 Html, css, javascript, linux, Docker, Tensorflow, Android
