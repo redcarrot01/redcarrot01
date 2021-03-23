@@ -14,11 +14,11 @@ Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
 🙌 Currently learning   
 Spring, Kubernetes
 
-✨ from now on    
+✨ from now on & want to do well   
 Java, Spring, Spring boot, Spring cloud ..
 
 👌 So so & Had tried it  
-Html, css, javascript, linux, Docker, Tensorflow, Android
+Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 
 
 ### :mailbox_with_mail: More about me & Contacts
