@@ -4,7 +4,7 @@ velog_blog_rss_uri="https://v2.velog.io/rss/@redcarrot01"
 feed = feedparser.parse(velog_blog_rss_uri)
 
 
-## Recent blog posts
+### Recent blog posts
 """ # list of blog posts will be appended here
 
 lst = []
