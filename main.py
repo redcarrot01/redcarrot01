@@ -7,6 +7,7 @@ markdown_text = """
 
 ## Hi there! 👋
 
+
 ### About myself 🥕
 
 I'm Yu Jin Hong and I'm interested in Backend development & Cloud.   
@@ -27,6 +28,7 @@ Java, Spring, Spring boot, Spring cloud ..
 
 👌 So so & Had tried it  
 Html, css, Java, javascript, linux, Docker, Tensorflow, Android
+
 
 ### About me & Contact me 
 
