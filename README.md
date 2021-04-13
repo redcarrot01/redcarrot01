@@ -35,8 +35,8 @@ Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
-[[알고리즘] 최단경로(다익스트라, 플로이드워셜)](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C) <br>
-[[ProblemSolving] 백준 - 2667 단지번호붙이기(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0dfsbfs) <br>
-[[ProblemSolving] 백준 - 1697 숨바꼭질(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88dfsbfs) <br>
-[[ProblemSolving] 백준 - 2178 미로탐색(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89dfsbfs) <br>
-[[ProblemSolving] 백준 - 1260 DFS와BFS(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFSdfsbfs) <br>
+[[ProblemSolving] 백준 - 7562 나이트의이동(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) <br>
+[[ProblemSolving] 백준 - 7576 토마토(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) <br>
+[[ProblemSolving] 백준 - 6603 로또(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-6603-%EB%A1%9C%EB%98%90dfsbfs) <br>
+[[ProblemSolving] 백준 - 11724 연결요소의개수(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11724-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98dfsbfs) <br>
+[[ProblemSolving] 백준 - 1012 유기농배추(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94dfsbfs) <br>
