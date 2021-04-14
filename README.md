@@ -35,8 +35,8 @@ Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ProblemSolving] *화상탐사(최단경로)](https://velog.io/@redcarrot01/ProblemSolving-%ED%99%94%EC%83%81%ED%83%90%EC%82%AC%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) <br>
+[[ProblemSolving] *정확한순위(최단경로)](https://velog.io/@redcarrot01/ProblemSolving-%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) <br>
+[[ProblemSolving] 백준 - 1753 플로이드(최단경로)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1753-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) <br>
 [[ProblemSolving] 백준 - 7562 나이트의이동(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) <br>
 [[ProblemSolving] 백준 - 7576 토마토(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) <br>
-[[ProblemSolving] 백준 - 6603 로또(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-6603-%EB%A1%9C%EB%98%90dfsbfs) <br>
-[[ProblemSolving] 백준 - 11724 연결요소의개수(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11724-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98dfsbfs) <br>
-[[ProblemSolving] 백준 - 1012 유기농배추(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94dfsbfs) <br>
