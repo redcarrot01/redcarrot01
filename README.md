@@ -35,8 +35,8 @@ Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ProblemSolving] 백준 - 1700 멀티탭스케줄링(그리디)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1700-%EB%A9%80%ED%8B%B0%ED%83%AD%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EA%B7%B8%EB%A6%AC%EB%94%94) <br>
+[[ProblemSolving] 백준 - 14719 빗물(구현)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) <br>
 [[ProblemSolving] 백준 - 2504 괄호의값(스택큐)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2504-%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92%EC%8A%A4%ED%83%9D%ED%81%90) <br>
 [[ProblemSolving] 백준 - 13913 숨바꼭질4(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13913-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884dfsbfs) <br>
 [[ProblemSolving] 백준 - 13549 숨바꼭질3(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13549-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883dfsbfs) <br>
-[[ProblemSolving] 백준 - 12851 숨바꼭질2(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882dfsbfs) <br>
-[[ProblemSolving] 백준 - 2606 바이러스(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EA%B5%AC%ED%98%84) <br>
