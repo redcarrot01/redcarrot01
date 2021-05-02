@@ -35,8 +35,8 @@ Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ProblemSolving] 백준 - 1743 음식물피하기(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0dfsbfs) <br>
 [[ProblemSolving] 백준 - 1197 최소스패닝트리(문자열)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1197-%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC%EB%AC%B8%EC%9E%90%EC%97%B4) <br>
 [[ProblemSolving] 백준 - 1916 최소비용구하기(다익스트라)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1916-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC) <br>
 [[ProblemSolving] 백준 - 1806 부분합(문자열)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1806-%EB%B6%80%EB%B6%84%ED%95%A9%EB%AC%B8%EC%9E%90%EC%97%B4) <br>
 [[ProblemSolving] 백준 - 1700 멀티탭스케줄링(그리디)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1700-%EB%A9%80%ED%8B%B0%ED%83%AD%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EA%B7%B8%EB%A6%AC%EB%94%94) <br>
-[[ProblemSolving] 백준 - 14719 빗물(구현)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14719-%EB%B9%97%EB%AC%BC%EA%B5%AC%ED%98%84) <br>
