@@ -35,8 +35,8 @@ Html, css, Java11, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
-[[JAVA] 6. 클래스-1](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-1) <br>
+[[JAVA] 6.2 클래스-2](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-2) <br>
+[[JAVA] 6.1 클래스-1](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-1) <br>
 [[ProblemSolving] 백준 - 16953 A->B(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16953-A-Bdfsbfs) <br>
 [[JAVA] 5. 참조 타입](https://velog.io/@redcarrot01/JAVA-5.-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85) <br>
 [[JAVA] 4. 조건문과 반복문](https://velog.io/@redcarrot01/JAVA-4.-%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC-%EB%B0%98%EB%B3%B5%EB%AC%B8) <br>
-[[JAVA] 3. 연산자](https://velog.io/@redcarrot01/JAVA-3.-%EC%97%B0%EC%82%B0%EC%9E%90) <br>
