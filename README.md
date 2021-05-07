@@ -35,8 +35,8 @@ Html, css, Java11, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ProblemSolving] 백준 - 16930 달리기(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) <br>
+[[ProblemSolving] 백준 - 17086 아기상어2(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) <br>
+[[ProblemSolving] 백준 - 14226 이모티콘(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) <br>
 [[JAVA] 6.2 클래스-2](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-2) <br>
 [[JAVA] 6.1 클래스-1](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-1) <br>
-[[ProblemSolving] 백준 - 16953 A->B(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16953-A-Bdfsbfs) <br>
-[[JAVA] 5. 참조 타입](https://velog.io/@redcarrot01/JAVA-5.-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85) <br>
-[[JAVA] 4. 조건문과 반복문](https://velog.io/@redcarrot01/JAVA-4.-%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC-%EB%B0%98%EB%B3%B5%EB%AC%B8) <br>
