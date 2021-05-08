@@ -35,8 +35,8 @@ Html, css, Java11, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[SpringBoot & AWS] 1. gradle 로 springboot 프로젝트 생성](https://velog.io/@redcarrot01/SpringBoot-AWS-1.-gradle-%EB%A1%9C-springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1) <br>
+[[KakaoSolving] 2020 kakao Internship - 보석쇼핑[Level3]](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91Level3) <br>
+[[KakaoSolving] 2020 kakao Internship - 수식최대화[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94Level2) <br>
+[[KakaoSolving] 2020 kakao Internship - 키패드누르기[Level1]](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0Level1) <br>
 [[ProblemSolving] 백준 - 16930 달리기(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) <br>
-[[ProblemSolving] 백준 - 17086 아기상어2(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) <br>
-[[ProblemSolving] 백준 - 14226 이모티콘(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) <br>
-[[JAVA] 6.2 클래스-2](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-2) <br>
-[[JAVA] 6.1 클래스-1](https://velog.io/@redcarrot01/JAVA-6.-%ED%81%B4%EB%9E%98%EC%8A%A4-1) <br>
