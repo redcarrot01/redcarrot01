@@ -21,13 +21,13 @@ I want to be a developer who grows day by day as much as github commits.
 Python3, c++, c, AWS, MySQL
 
 🙌 Currently learning   
-Java11, Spring, SpringBoot
+Java8, Spring, SpringBoot
 
 ✨ from now on & want to do well   
-Java11, SpringCloud, Kubernetes ..
+Java8, SpringCloud, Kubernetes ..
 
 👌 So so & Had tried it  
-Html, css, Java11, javascript, linux, Docker, Tensorflow, Django
+Html, css, Java8, javascript, linux, Docker, Tensorflow, Django
 
 
 ### 📧 About me & Contact me 
