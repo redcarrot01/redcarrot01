@@ -35,8 +35,8 @@ Html, css, Java8, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[JAVA] 8. 인터페이스](https://velog.io/@redcarrot01/JAVA-8.-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br>
+[[JAVA] 7. 상속](https://velog.io/@redcarrot01/JAVA-7.-%EC%83%81%EC%86%8D) <br>
 [[ProblemSolving] *못생긴수(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98dp) <br>
 [[ProblemSolving] *금광(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EA%B8%88%EA%B4%91dp) <br>
 [[ProblemSolving] *개미전사(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%ACdp) <br>
-[[ProblemSolving] 백준 - 1835 병사배치하기(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1835-%EB%B3%91%EC%82%AC%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0dp) <br>
-[[ProblemSolving] 백준 - 2294 동전2(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2294-%EB%8F%99%EC%A0%842dp) <br>
