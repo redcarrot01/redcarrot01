@@ -35,8 +35,8 @@ Html, css, Java8, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[TroubleShooting (springboot)] expected at least 1 bean which qualifies as autowire candidate..](https://velog.io/@redcarrot01/TroubleShooting-springboot-expected-at-least-1-bean-which-qualifies-as-autowire-candidate) <br>
 [[ProblemSolving] 백준 - 12865 평범한배낭(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12865-%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%ADdp) <br>
 [[ProblemSolving] 백준 - 5557 1학년(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-5557-1%ED%95%99%EB%85%84dp) <br>
 [[ProblemSolving] 백준 - 11057 오르막길(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-9465-%EC%8A%A4%ED%8B%B0%EC%BB%A4dp-1ky2tzsk) <br>
 [[ProblemSolving] 백준 - 10844 쉬운계단수(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-10844-%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98dp) <br>
-[[ProblemSolving] 백준 - 2156 포도주시식(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2156-%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9Ddp) <br>
