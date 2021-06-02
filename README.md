@@ -35,8 +35,8 @@ Html, css, Java8, javascript, linux, Docker, Tensorflow, Django
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ALGORITHM] 이분탐색](https://velog.io/@redcarrot01/ALGORITHM-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) <br>
 [[SpringBoot & AWS] 8. EC2서버에 프로젝트 수동 배포](https://velog.io/@redcarrot01/SpringBoot-AWS-8.-EC2%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%EB%8F%99-%EB%B0%B0%ED%8F%AC) <br>
 [[TroubleShooting (springboot)] expected at least 1 bean which qualifies as autowire candidate..](https://velog.io/@redcarrot01/TroubleShooting-springboot-expected-at-least-1-bean-which-qualifies-as-autowire-candidate) <br>
 [[ProblemSolving] 백준 - 12865 평범한배낭(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12865-%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%ADdp) <br>
 [[ProblemSolving] 백준 - 5557 1학년(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-5557-1%ED%95%99%EB%85%84dp) <br>
-[[ProblemSolving] 백준 - 11057 오르막길(dp)](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-9465-%EC%8A%A4%ED%8B%B0%EC%BB%A4dp-1ky2tzsk) <br>
