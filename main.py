@@ -15,21 +15,6 @@ I'm full with eager to learn new technique and skill.
 I want to be a developer who grows day by day as much as github commits.   
 
 
-### Skill Set 
-
-✔ Familiar with  
-Python3, c++, c, AWS, MySQL
-
-🙌 Currently learning   
-Java8, Spring, SpringBoot
-
-✨ from now on & want to do well   
-Java8, SpringCloud, Kubernetes ..
-
-👌 So so & Had tried it  
-Html, css, Java8, javascript, linux, Docker, Tensorflow, Django
-
-
 ### 📧 About me & Contact me 
 
   <a href="https://velog.io/@redcarrot01"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@redcarrot01"/></a>  <a href="mailto:redccc9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=redcarrot01@gmail.com"/></a> 
