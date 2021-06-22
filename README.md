@@ -20,8 +20,8 @@ I want to be a developer who grows day by day as much as github commits.
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
+[[ProblemSolving] 프로그래머스KIT - 완주하지못한선수, 전화번호목록, 위장, 베스트앨범(hash)](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D-%EC%9C%84%EC%9E%A5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94hash) <br>
 [[PYTHON] 파이썬정복기_2](https://velog.io/@redcarrot01/PYTHON-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%A0%95%EB%B3%B5%EA%B8%B02) <br>
 [[PYTHON] 파이썬정복기_1](https://velog.io/@redcarrot01/PYTHON-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%A0%95%EB%B3%B5%EA%B8%B01) <br>
 [[ALGORITHM] 이분탐색](https://velog.io/@redcarrot01/ALGORITHM-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) <br>
 [[SpringBoot & AWS] 8. EC2서버에 프로젝트 수동 배포](https://velog.io/@redcarrot01/SpringBoot-AWS-8.-EC2%EC%84%9C%EB%B2%84%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%EB%8F%99-%EB%B0%B0%ED%8F%AC) <br>
-[[TroubleShooting (springboot)] expected at least 1 bean which qualifies as autowire candidate..](https://velog.io/@redcarrot01/TroubleShooting-springboot-expected-at-least-1-bean-which-qualifies-as-autowire-candidate) <br>
