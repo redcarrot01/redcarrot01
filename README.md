@@ -20,8 +20,8 @@ I want to be a developer who grows day by day as much as github commits.
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredcarrot01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### ✍ Recent blog posts 
-[[KakaoSolving] 2018 kakao Blind Recruitment - 캐시[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EC%BA%90%EC%8B%9CLevel2) <br>
-[[KakaoSolving] 2021 kakao Blind Recruitment - 메뉴리뉴얼[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Blind-Recruitment-%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BCLevel2) <br>
-[[KakaoSolving] 2018 kakao Blind Recruitment - 뉴스클러스터링[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81Level2) <br>
-[[KakaoSolving] 2019 kakao Winter Internship - 튜플[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2019-kakao-winter-internship-%ED%8A%9C%ED%94%8CLevel2) <br>
-[[ProblemSolving] 프로그래머스KIT - 타겟넘버, 네트워크, 단어변환, 여행경로(dfs&bfs)](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4KIT-%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9Cdfsbfs) <br>
+[[KakaoSolving] 2021 카카오 채용 연계 인턴쉽 - 거리두기확인하기[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Recruitment-Linked-Internship-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0Level2) <br>
+[[KakaoSolving] 2018 카카오 블라인드 채용 - 캐시[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EC%BA%90%EC%8B%9CLevel2) <br>
+[[KakaoSolving] 2021 카카오 블라인드 채용 - 메뉴리뉴얼[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2021-kakao-Blind-Recruitment-%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BCLevel2) <br>
+[[KakaoSolving] 2018 카카오 블라인드 채용- 뉴스클러스터링[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2018-kakao-Blind-Recruitment-%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81Level2) <br>
+[[KakaoSolving] 2019 카카오 겨울 인턴쉽- 튜플[Level2]](https://velog.io/@redcarrot01/KakaoSolving-2019-kakao-winter-internship-%ED%8A%9C%ED%94%8CLevel2) <br>
